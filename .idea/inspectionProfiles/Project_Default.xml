@@ -1,0 +1,41 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="Eslint" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Core.PropertyMixins.Mixins.SlugSaveMethods.Name.name" />
+          <option value="object.*" />
+          <option value="Core.PropertyMixins.Mixins.PropertyCountMixins.ProductCountMixin.product" />
+          <option value="Core.PropertyMixins.Mixins.PropertyCountMixins.CommentCountMixin.product" />
+          <option value="Core.PropertyMixins.Mixins.PropertyCountMixins.TagCountMixin.product" />
+          <option value="Core.PropertyMixins.Mixins.PropertyCountMixins.CategoryCountMixin.product" />
+          <option value="Core.PropertyMixins.Mixins.PropertyCountMixins.TagNameMixin.product" />
+          <option value="Core.PropertyMixins.Mixins.PropertyCountMixins.CategoryNameMixin.product" />
+          <option value="Core.PropertyMixins.Mixins.Methods.Str.name.name" />
+          <option value="Core.PropertyMixins.Mixins.Methods.Save.Base.Category.pk" />
+          <option value="Core.PropertyMixins.Mixins.Methods.Save.Base.Category.category" />
+          <option value="Core.PropertyMixins.Mixins.Methods.Save.Slug.Name.*" />
+          <option value="Core.PropertyMixins.Mixins.Methods.Save.Slug.Id.id" />
+          <option value="Core.PropertyMixins.Mixins.Property.ForeignCount.Product.product" />
+          <option value="Core.PropertyMixins.Mixins.Property.ForeignCount.Comment.product" />
+          <option value="Core.PropertyMixins.Mixins.Property.ForeignCount.Tag.product" />
+          <option value="Core.PropertyMixins.Mixins.Property.ForeignCount.Category.product" />
+          <option value="Core.PropertyMixins.Mixins.Property.ForeignCount.Brand.brand" />
+          <option value="Core.PropertyMixins.Mixins.Property.ForeignCount.ForProduct.Comment.comment_products" />
+          <option value="Core.PropertyMixins.Mixins.Property.ForeignCount.ForProduct.Tag.tag" />
+          <option value="Core.PropertyMixins.Mixins.Property.ForeignCount.ForProduct.Category.category" />
+          <option value="Core.PropertyMixins.Mixins.Property.ForeginNames.Tag.product" />
+          <option value="Core.PropertyMixins.Mixins.Property.ForeginNames.Category.product" />
+          <option value="Core.PropertyMixins.Mixins.Property.ForeignNames.Tag.product" />
+          <option value="Core.PropertyMixins.Mixins.Property.ForeignNames.Category.product" />
+          <option value="dict.insert_one" />
+          <option value="selenium.webdriver.firefox.webdriver.WebDriver.is_mobile" />
+          <option value="ai.node.*" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="WrongPropertyKeyValueDelimiter" enabled="true" level="ERROR" enabled_by_default="true" />
+  </profile>
+</component>
